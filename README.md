@@ -2,7 +2,7 @@
 
 ![Todo Web App](https://i.postimg.cc/Zn93FDNS/Todo-Screenshot-1.png)
 
-This is a Todo web application built using HTML, CSS, and Vanilla JavaScript. It provides a simple and intuitive interface for managing your tasks. The app includes several features to enhance your productivity and help you stay organized. Checkout here: https://alkaison.github.io/Todo-JavaScript/ 
+This is a Todo web application built using HTML, CSS, and Vanilla JavaScript. It provides a simple and intuitive interface for managing your tasks. The app includes several features to enhance your productivity and help you stay organized. 
 
 ## Features
 
